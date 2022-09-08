@@ -20,7 +20,7 @@
 
 
 ## App View
-- ![appview](./images/Untitled_%20Sep%207%2C%202022%208_51%20PM.gif)
+- ![appview](./images/hangmangif.gif)
 
 ## How to Use
 - Clone repo
